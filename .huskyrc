@@ -1,0 +1,3 @@
+# https://github.com/typicode/husky/issues/390#issuecomment-596969011
+# ~/.huskyrc
+export PATH="/usr/local/bin/:$PATH"
