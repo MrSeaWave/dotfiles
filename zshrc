@@ -117,3 +117,8 @@ noproxy () {
   unset all_proxy
   echo "Socks Proxy off"
 }
+
+# PATH
+
+# MySql PATH
+export PATH=${PATH}:/usr/local/mysql/bin
