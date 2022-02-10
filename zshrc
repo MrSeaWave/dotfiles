@@ -70,7 +70,7 @@ ZSH_THEME="ys"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git autojump zsh-autosuggestions zsh-syntax-highlighting)
+plugins=(git autojump zsh-autosuggestions zsh-syntax-highlighting jsontools)
 
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=23'
 
