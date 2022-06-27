@@ -120,5 +120,13 @@ noproxy () {
 
 # PATH
 
+# brew PATH
+export PATH=/opt/homebrew/bin:$PATH
 # MySql PATH
 export PATH=${PATH}:/usr/local/mysql/bin
+
+
+# Alias
+
+# Alias
+alias git='LANG=en_GB git'
