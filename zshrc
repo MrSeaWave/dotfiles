@@ -131,3 +131,6 @@ export PATH=${PATH}:/usr/local/mysql/bin
 
 # Alias
 alias git='LANG=en_GB git'
+
+# 使用Ta进行自动补全
+bindkey '^I' autosuggest-accept
